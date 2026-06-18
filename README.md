@@ -20,7 +20,7 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastify,tailwind,bootstrap,styledcomponents,radix" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,bootstrap,styledcomponents,radix" />
 </p>
 
 ### 🗄️ Databases
@@ -38,10 +38,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,vite,electron" />
 </p>
 
-### 📦 Other
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql,adonisjs,storybook" />
-</p>
 
 ---
 
