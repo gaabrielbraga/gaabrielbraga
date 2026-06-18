@@ -6,9 +6,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Full Stack Developer focused on modern web technologies
+- 🎓 I'm graduating Computer Science at FAESA.
 - 💡 Always learning and exploring new tools and frameworks
-- 🎯 Committed to writing clean, maintainable code
 
 ---
 
