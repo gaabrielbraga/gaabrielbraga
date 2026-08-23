@@ -1,0 +1,35 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050B12"/>
+    <stop offset="0.5" stop-color="#08111C"/>
+    <stop offset="1" stop-color="#05090F"/>
+  </linearGradient>
+  <style>
+    .mono { font-family: "JetBrains Mono","Cascadia Code","SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+    .sans { font-family: Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+  </style>
+</defs>
+
+<rect x="1" y="1" width="1198" height="428" rx="22" fill="url(#bg)" stroke="#1F6FEB" stroke-opacity=".35"/>
+<text x="42" y="48" class="mono" font-size="18" font-weight="700" fill="#58A6FF">&gt; experience</text>
+
+<rect x="42" y="78" width="530" height="294" rx="16" fill="#08131F" stroke="#26384B"/>
+<text x="68" y="112" class="sans" font-size="21" font-weight="700" fill="#F0F6FC">Full Stack Developer</text>
+<text x="68" y="138" class="mono" font-size="15" fill="#58A6FF">Paytime Brasil</text>
+<text x="68" y="167" class="mono" font-size="13" fill="#8B949E">Jul 2026 — Present</text>
+<text x="68" y="209" class="mono" font-size="14" fill="#C9D1D9">• Building AI-powered internal systems and workflow automation.</text>
+<text x="68" y="238" class="mono" font-size="14" fill="#C9D1D9">• Maintaining and evolving payment-related web products.</text>
+<text x="68" y="267" class="mono" font-size="14" fill="#C9D1D9">• Working across frontend, backend, integrations and internal tooling.</text>
+<text x="68" y="316" class="mono" font-size="13" fill="#8B949E">Focus: payments · AI · automation · product engineering</text>
+
+<rect x="628" y="78" width="530" height="294" rx="16" fill="#08131F" stroke="#26384B"/>
+<text x="654" y="112" class="sans" font-size="21" font-weight="700" fill="#F0F6FC">Full Stack Developer</text>
+<text x="654" y="138" class="mono" font-size="15" fill="#58A6FF">Zig</text>
+<text x="654" y="167" class="mono" font-size="13" fill="#8B949E">Apr 2022 — Apr 2025</text>
+<text x="654" y="209" class="mono" font-size="14" fill="#C9D1D9">• Started in data and evolved into full-stack product development.</text>
+<text x="654" y="238" class="mono" font-size="14" fill="#C9D1D9">• Worked on ticketing and payments flows for high-demand events.</text>
+<text x="654" y="267" class="mono" font-size="14" fill="#C9D1D9">• Built integrations and systems handling real production traffic.</text>
+<text x="654" y="316" class="mono" font-size="13" fill="#8B949E">Focus: data · frontend · backend · APIs · payments</text>
+</svg>

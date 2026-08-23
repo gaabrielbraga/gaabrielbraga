@@ -1,0 +1,121 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B12"/>
+      <stop offset="0.5" stop-color="#08111C"/>
+      <stop offset="1" stop-color="#05090F"/>
+    </linearGradient>
+
+    <linearGradient id="nameGradient" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.52" stop-color="#F8FAFC"/>
+      <stop offset="0.53" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(860 178) rotate(90) scale(160 220)">
+      <stop stop-color="#0D6EFD" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0D6EFD" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+
+    <style>
+      .mono {
+        font-family: "JetBrains Mono","Cascadia Code","SFMono-Regular",Consolas,"Liberation Mono",monospace;
+      }
+      .sans {
+        font-family: Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+      }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#bg)" stroke="#1F6FEB" stroke-opacity="0.72" stroke-width="2"/>
+  <rect x="24" y="22" width="1152" height="316" rx="18" fill="#07101A" fill-opacity="0.72" stroke="#1C2D40"/>
+
+  <!-- ambient -->
+  <circle cx="860" cy="178" r="150" fill="url(#glow)"/>
+  <circle cx="860" cy="178" r="56" fill="#1F6FEB" fill-opacity="0.10" filter="url(#softGlow)"/>
+
+  <!-- terminal topbar -->
+  <circle cx="52" cy="50" r="5" fill="#FF5F57"/>
+  <circle cx="70" cy="50" r="5" fill="#FFBD2E"/>
+  <circle cx="88" cy="50" r="5" fill="#28C840"/>
+
+  <text x="120" y="55" class="mono" font-size="15" fill="#58A6FF">guest@github</text>
+  <text x="220" y="55" class="mono" font-size="15" fill="#7D8590">:</text>
+  <text x="229" y="55" class="mono" font-size="15" fill="#8B949E">~</text>
+  <text x="241" y="55" class="mono" font-size="15" fill="#F0F6FC">$ cat README.md</text>
+
+  <circle cx="1090" cy="50" r="5" fill="#7EE787"/>
+  <text x="1104" y="55" class="mono" font-size="14" fill="#7EE787">ONLINE</text>
+
+  <!-- left content -->
+  <text x="78" y="132" class="sans" font-size="48" font-weight="800" letter-spacing="2" fill="url(#nameGradient)">
+    GABRIEL BRAGA
+  </text>
+
+  <text x="80" y="168" class="mono" font-size="19" font-weight="700" letter-spacing="4" fill="#58A6FF">
+    FULL STACK DEVELOPER
+  </text>
+
+  <text x="80" y="213" class="mono" font-size="17" fill="#C9D1D9">
+    I build software that turns
+  </text>
+  <text x="80" y="237" class="mono" font-size="17" fill="#C9D1D9">
+    complex problems into simple products.
+  </text>
+
+  <!-- tags -->
+  <g class="mono" font-size="14">
+    <rect x="80" y="270" width="82" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="99" y="292" fill="#58A6FF">React</text>
+
+    <rect x="172" y="270" width="118" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="191" y="292" fill="#58A6FF">TypeScript</text>
+
+    <rect x="300" y="270" width="100" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="319" y="292" fill="#58A6FF">Node.js</text>
+
+    <rect x="410" y="270" width="115" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="429" y="292" fill="#58A6FF">PostgreSQL</text>
+
+    <rect x="535" y="270" width="92" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="554" y="292" fill="#58A6FF">Docker</text>
+
+    <rect x="637" y="270" width="58" height="34" rx="7" fill="#0B1521" stroke="#264663"/>
+    <text x="657" y="292" fill="#58A6FF">AI</text>
+  </g>
+
+  <!-- right code card -->
+  <rect x="744" y="88" width="382" height="184" rx="14" fill="#08131F" stroke="#26384B"/>
+  <circle cx="1086" cy="108" r="5" fill="#FF5F57"/>
+  <circle cx="1102" cy="108" r="5" fill="#FFBD2E"/>
+  <circle cx="1118" cy="108" r="5" fill="#28C840"/>
+
+  <text x="770" y="121" class="mono" font-size="14" fill="#3FB950">// about.me</text>
+  <text x="770" y="151" class="mono" font-size="14" fill="#C9D1D9">const</text>
+  <text x="818" y="151" class="mono" font-size="14" fill="#D2A8FF"> gabriel</text>
+  <text x="881" y="151" class="mono" font-size="14" fill="#C9D1D9"> = {</text>
+
+  <text x="790" y="176" class="mono" font-size="14" fill="#79C0FF">role:</text>
+  <text x="842" y="176" class="mono" font-size="14" fill="#A5D6FF"> "Full Stack Developer",</text>
+
+  <text x="790" y="201" class="mono" font-size="14" fill="#79C0FF">focus:</text>
+  <text x="850" y="201" class="mono" font-size="14" fill="#A5D6FF"> "Products &amp; Systems",</text>
+
+  <text x="790" y="226" class="mono" font-size="14" fill="#79C0FF">location:</text>
+  <text x="871" y="226" class="mono" font-size="14" fill="#A5D6FF"> "Brazil 🇧🇷"</text>
+
+  <text x="770" y="251" class="mono" font-size="14" fill="#C9D1D9">};</text>
+
+  <!-- footer link -->
+  <text x="862" y="310" class="mono" font-size="15" fill="#58A6FF">gabrielfbraga.dev ↗</text>
+
+  <!-- accent lines -->
+  <path d="M722 78V310" stroke="#16314B" stroke-dasharray="4 8"/>
+  <path d="M38 320H1160" stroke="#16314B"/>
+</svg>
