@@ -1,0 +1,6 @@
+about.svg: OK
+footer.svg: OK
+experience.svg: OK
+header.svg: OK
+projects.svg: OK
+stack.svg: OK

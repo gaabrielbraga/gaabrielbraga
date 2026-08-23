@@ -1,42 +1,40 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Braga — Full Stack Developer" />
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Braga - Full Stack Developer" />
 </p>
-
-<br />
 
 <p align="center">
   <a href="https://gabrielfbraga.dev"><b>Portfolio</b></a>
-  &nbsp;•&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabrielfbraga"><b>LinkedIn</b></a>
-  &nbsp;•&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/gaabrielbraga"><b>GitHub</b></a>
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <img src="./assets/about.svg" width="100%" alt="About Gabriel Braga" />
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <img src="./assets/experience.svg" width="100%" alt="Experience" />
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <img src="./assets/projects.svg" width="100%" alt="Projects" />
 </p>
 
-<br />
+<br>
 
 ## GitHub
 
@@ -49,7 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaabrielbraga&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
-<br />
+<br>
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Connect with Gabriel Braga" />

@@ -1,10 +1,13 @@
-# Como usar
+# GitHub-safe README package
 
-1. Crie/abra o repositório de perfil `gaabrielbraga/gaabrielbraga`.
-2. Copie o `README.md` para a raiz.
-3. Copie a pasta `assets/` inteira para a raiz do repositório.
-4. Faça commit e push.
-5. O GitHub renderizará os SVGs diretamente no README.
+Esta versão foi refeita para evitar os problemas mais comuns de SVG no GitHub:
+
+- Tipografia convertida para paths vetoriais no SVG.
+- Nenhum emoji dentro dos SVGs.
+- Nenhuma fonte externa.
+- Nenhum JavaScript, foreignObject ou recurso remoto.
+- Nenhum CSS necessário para o layout do SVG.
+- Imagens locais referenciadas com caminhos relativos.
 
 Estrutura:
 
@@ -18,5 +21,4 @@ gaabrielbraga/
     ├── projects.svg
     └── footer.svg
 
-Observação:
-Os cards de GitHub Stats e Activity Graph são serviços externos. Se algum deles ficar indisponível, o restante do README continua funcionando.
+Suba o README.md e a pasta assets para o repositório de perfil gaabrielbraga/gaabrielbraga.
