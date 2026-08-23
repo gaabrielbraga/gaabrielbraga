@@ -1,67 +1,56 @@
-# Hi there, I'm Gabriel Braga! 👋
-
-### Full Stack Developer passionate about building clean and scalable solutions.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 I'm graduating Computer Science at FAESA.
-- 💡 Always learning and exploring new tools and frameworks
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,html,css" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Braga — Full Stack Developer" />
 </p>
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,bootstrap,styledcomponents,radix" />
+<br />
+
+<p align="center">
+  <a href="https://gabrielfbraga.dev"><b>Portfolio</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/gabrielfbraga"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/gaabrielbraga"><b>GitHub</b></a>
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" />
+<br />
+
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Gabriel Braga" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions" />
+<br />
+
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,vite,electron" />
+<br />
+
+<p align="center">
+  <img src="./assets/experience.svg" width="100%" alt="Experience" />
 </p>
 
+<br />
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaabrielbraga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbraga&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Projects" />
 </p>
 
----
+<br />
 
-## 🌐 Connect with Me
+## GitHub
 
-<p>
-  <a href="https://www.linkedin.com/in/gabrielfbraga/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/gaabrielbraga" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/gabriel.fbraga" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaabrielbraga&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielbraga&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaabrielbraga&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Connect with Gabriel Braga" />
 </p>
