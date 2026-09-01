@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300" role="img" aria-label="Gabriel Braga - Full Stack Developer">
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="850" height="300" rx="16"></rect></clipPath>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 H0 V26" fill="none" stroke="#0d1930" stroke-width="1"></path>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.34"></stop>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f6fd0"></stop>
+      <stop offset="55%" stop-color="#14355e"></stop>
+      <stop offset="100%" stop-color="#0f2440"></stop>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"></stop>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#7dd3fc" stop-opacity="0.13"></stop>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="850" height="300" fill="#060b16"></rect>
+    <rect x="0" y="0" width="850" height="300" fill="url(#grid)" opacity="0.6"></rect>
+    <ellipse cx="150" cy="90" rx="300" ry="180" fill="url(#glow)">
+      
+    </ellipse>
+    <rect x="0" y="-70" width="850" height="70" fill="url(#scan)">
+      
+    </rect>
+
+    <circle cx="34" cy="34" r="5" fill="#ff5f57"></circle>
+    <circle cx="52" cy="34" r="5" fill="#febc2e"></circle>
+    <circle cx="70" cy="34" r="5" fill="#28c840"></circle>
+    <text x="92" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#6e7d8f">guest@github:~$ cat README.md</text>
+    <circle cx="754" cy="34" r="4" fill="#3fb950">
+      
+    </circle>
+    <circle cx="754" cy="34" r="4" fill="none" stroke="#3fb950" stroke-width="1" opacity="0">
+      
+      
+    </circle>
+    <text x="768" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.6" fill="#3fb950">ONLINE</text>
+    <line x1="0" y1="56" x2="850" y2="56" stroke="#101c30" stroke-width="1"></line>
+
+    <rect x="34" y="86" width="3" height="132" fill="url(#rail)"></rect>
+
+    <text x="58" y="136" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1"><tspan fill="#f0f6fc">GABRIEL</tspan><tspan fill="#3b82f6" dx="14">BRAGA</tspan></text>
+    <rect x="58" y="152" width="7" height="7" fill="#3b82f6"></rect>
+    <text x="74" y="159" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="2.2" fill="#58a6ff">FULL STACK DEVELOPER</text>
+
+    <text x="58" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9aa7b5">I build software that turns</text>
+    <text x="58" y="211" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9aa7b5">complex problems into simple products.</text>
+
+    <line x1="58" y1="232" x2="430" y2="232" stroke="#14233c" stroke-width="1" stroke-dasharray="372" stroke-dashoffset="0">
+      
+    </line>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#79b8ff" text-anchor="middle">
+      <rect x="58" y="248" width="65" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="90.5" y="265">React</text>
+      <rect x="132" y="248" width="105" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="184.5" y="265">TypeScript</text>
+      <rect x="246" y="248" width="81" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="286.5" y="265">Node.js</text>
+      <rect x="336" y="248" width="105" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="388.5" y="265">PostgreSQL</text>
+      <rect x="450" y="248" width="73" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="486.5" y="265">Docker</text>
+      <rect x="532" y="248" width="42" height="26" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="553" y="265">AI</text>
+    </g>
+
+    <rect x="470" y="76" width="346" height="150" rx="10" fill="#0a1424" stroke="#17304f"></rect>
+    <line x1="470" y1="104" x2="816" y2="104" stroke="#152943" stroke-width="1"></line>
+    <circle cx="486" cy="90" r="3.5" fill="#ff5f57"></circle>
+    <circle cx="498" cy="90" r="3.5" fill="#febc2e"></circle>
+    <circle cx="510" cy="90" r="3.5" fill="#28c840"></circle>
+    <text x="806" y="94" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8" fill="#4c5b6c">about.me</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+      <text x="488" y="128" fill="#c9d1d9">const gabriel = {</text>
+      <text x="504" y="146" fill="#8b98a8">role: <tspan fill="#7ee787">&#34;Full Stack Developer&#34;</tspan>,</text>
+      <text x="504" y="164" fill="#8b98a8">focus: <tspan fill="#7ee787">&#34;Products &amp; Systems&#34;</tspan>,</text>
+      <text x="504" y="182" fill="#8b98a8">location: <tspan fill="#7ee787">&#34;Brazil&#34;</tspan></text>
+      <text x="488" y="200" fill="#c9d1d9">};</text>
+    </g>
+
+    <text x="816" y="266" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.5" fill="#58a6ff">gabrielfbraga.dev</text>
+    <path d="M796 244 H816 V264" fill="none" stroke="#1c3a63" stroke-width="1.5" opacity="0"></path>
+  </g>
+  <rect x="1" y="1" width="848" height="298" rx="16" fill="none" stroke="url(#edge)" stroke-width="2"></rect>
+</svg>

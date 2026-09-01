@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="260" viewBox="0 0 850 260" role="img" aria-label="whoami">
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="850" height="260" rx="16"></rect></clipPath>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 H0 V26" fill="none" stroke="#0d1930" stroke-width="1"></path>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.28"></stop>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f6fd0"></stop>
+      <stop offset="55%" stop-color="#14355e"></stop>
+      <stop offset="100%" stop-color="#0f2440"></stop>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="850" height="260" fill="#060b16"></rect>
+    <rect x="0" y="0" width="850" height="260" fill="url(#grid)" opacity="0.6"></rect>
+    <ellipse cx="700" cy="40" rx="300" ry="170" fill="url(#glow)">
+      
+    </ellipse>
+
+    <rect x="34" y="30" width="6" height="14" fill="#3b82f6"></rect>
+    <text x="50" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#58a6ff">WHOAMI</text>
+    <line x1="152" y1="38" x2="816" y2="38" stroke="#12203a" stroke-width="1" stroke-dasharray="664" stroke-dashoffset="0">
+      
+    </line>
+
+    <text x="34" y="82" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f0f6fc">Full Stack Developer focused on products,</text>
+    <text x="34" y="110" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f0f6fc">integrations and intelligent automation.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8b98a8">
+      <text x="34" y="141">I build web applications end to end - from architecture and APIs to interfaces and deployment.</text>
+      <text x="34" y="160">My work sits at the intersection of software engineering, product development, SaaS and automation.</text>
+    </g>
+
+    <rect x="34" y="180" width="782" height="54" rx="8" fill="#0a1424" stroke="#17304f"></rect>
+    <rect x="34" y="180" width="3" height="54" fill="#3b82f6"></rect>
+    <text x="806" y="196" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8" fill="#4c5b6c">// currently</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+      <text x="54" y="203" fill="#8b98a8">building:<tspan x="128" fill="#7ee787">&#34;SaaS, developer tools, APIs, AI &amp; automation&#34;</tspan></text>
+      <text x="54" y="223" fill="#8b98a8">mindset:<tspan x="128" fill="#7ee787">&#34;Idea -&gt; Prototype -&gt; Ship -&gt; Learn -&gt; Repeat&#34;</tspan></text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="848" height="258" rx="16" fill="none" stroke="url(#edge)" stroke-width="2"></rect>
+</svg>

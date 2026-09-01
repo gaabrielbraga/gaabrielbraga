@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="290" viewBox="0 0 850 290" role="img" aria-label="tech stack">
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="850" height="290" rx="16"></rect></clipPath>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0 H0 V26" fill="none" stroke="#0d1930" stroke-width="1"></path>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.26"></stop>
+      <stop offset="100%" stop-color="#1d4ed8" stop-opacity="0"></stop>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f6fd0"></stop>
+      <stop offset="55%" stop-color="#14355e"></stop>
+      <stop offset="100%" stop-color="#0f2440"></stop>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="850" height="290" fill="#060b16"></rect>
+    <rect x="0" y="0" width="850" height="290" fill="url(#grid)" opacity="0.6"></rect>
+    <ellipse cx="120" cy="60" rx="300" ry="180" fill="url(#glow)">
+      
+    </ellipse>
+
+    <rect x="34" y="30" width="6" height="14" fill="#3b82f6"></rect>
+    <text x="50" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#58a6ff">TECH-STACK</text>
+    <line x1="196" y1="38" x2="816" y2="38" stroke="#12203a" stroke-width="1" stroke-dasharray="620" stroke-dashoffset="0">
+      
+    </line>
+
+    <text x="34" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6" fill="#5c6b7a">CORE</text>
+    <line x1="86" y1="72" x2="646" y2="72" stroke="#0f1c31" stroke-width="1"></line>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#79b8ff" text-anchor="middle">
+      <rect x="34" y="88" width="105" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="86.5" y="106">TypeScript</text>
+      <rect x="148" y="88" width="65" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="180.5" y="106">React</text>
+      <rect x="222" y="88" width="81" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="262.5" y="106">Next.js</text>
+      <rect x="312" y="88" width="81" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="352.5" y="106">Node.js</text>
+      <rect x="402" y="88" width="105" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="454.5" y="106">PostgreSQL</text>
+      <rect x="516" y="88" width="73" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="552.5" y="106">Docker</text>
+      <rect x="598" y="88" width="48" height="28" rx="6" fill="#10233d" stroke="#254f85"></rect><text x="622" y="106">AWS</text>
+    </g>
+
+    <text x="34" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2.6" fill="#5c6b7a">ALSO WORKED WITH</text>
+    <line x1="234" y1="152" x2="646" y2="152" stroke="#0f1c31" stroke-width="1"></line>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#7d8b9b" text-anchor="middle">
+      <rect x="34" y="168" width="94" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="81" y="184">JavaScript</text>
+      <rect x="136" y="168" width="50" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="161" y="184">Java</text>
+      <rect x="194" y="168" width="64" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="226" y="184">Python</text>
+      <rect x="266" y="168" width="35" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="283.5" y="184">C#</text>
+      <rect x="309" y="168" width="72" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="345" y="184">Express</text>
+      <rect x="389" y="168" width="57" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="417.5" y="184">MySQL</text>
+      <rect x="454" y="168" width="79" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="493.5" y="184">MongoDB</text>
+      <rect x="541" y="168" width="57" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="569.5" y="184">Redis</text>
+
+      <rect x="34" y="200" width="79" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="73.5" y="216">Tailwind</text>
+      <rect x="121" y="200" width="64" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="153" y="216">Vercel</text>
+      <rect x="193" y="200" width="42" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="214" y="216">Git</text>
+      <rect x="243" y="200" width="124" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="305" y="216">GitHub Actions</text>
+      <rect x="375" y="200" width="57" height="24" rx="5" fill="#0a1424" stroke="#16253f"></rect><text x="403.5" y="216">Figma</text>
+    </g>
+
+    <line x1="34" y1="246" x2="816" y2="246" stroke="#0f1c31" stroke-width="1"></line>
+    <rect x="34" y="262" width="6" height="6" fill="#3b82f6"></rect>
+    <text x="50" y="269" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#5c6b7a">Focused stack &gt; badge collection.</text>
+  </g>
+  <rect x="1" y="1" width="848" height="288" rx="16" fill="none" stroke="url(#edge)" stroke-width="2"></rect>
+</svg>
